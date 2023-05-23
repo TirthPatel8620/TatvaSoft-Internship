@@ -1,0 +1,24 @@
+h1{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding: 10px;
+color: rgb(66, 66, 66);
+
+}
+p{
+padding: 5px;
+padding-left: 15px;
+}
+button{
+    background-color: #B2B2B2;
+    color: #3C4048;
+    text-align: center;
+    text-decoration: none;
+    margin: 7px;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 7px;
+}
+button:hover{
+    background-color: #EAEAEA;
+}
