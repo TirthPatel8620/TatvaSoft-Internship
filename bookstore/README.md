@@ -14,9 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 #Output
 
 ![image](https://github.com/TirthPatel8620/TatvaSoft-Internship/assets/112684279/7941fd7e-8e3c-4eae-b1a2-ea7bf16ffec2)
-![image](https://github.com/TirthPatel8620/TatvaSoft-Internship/assets/112684279/69586121-a420-4f5c-a661-f59531eff5b9)
-![image](https://github.com/TirthPatel8620/TatvaSoft-Internship/assets/112684279/ab4e4270-deae-42d1-b547-6195dedbb109)
 
+![image](https://github.com/TirthPatel8620/TatvaSoft-Internship/assets/112684279/69586121-a420-4f5c-a661-f59531eff5b9)
 
 
 The page will reload when you make changes.\
