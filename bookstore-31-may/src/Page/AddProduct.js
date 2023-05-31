@@ -190,6 +190,13 @@ export const AddProduct = () => {
                                             Upload
                                         </Button>
                                     </label>
+                                        <img
+                                            style={{
+                                                height: '70px',
+                                                margin: '10px'
+
+                                            }}
+                                            src={values.base64image} />
                                     <input
                                         accept="image/*"
                                         //   className={classes.input}
